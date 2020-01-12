@@ -1,0 +1,1 @@
+web: gunicorn franc_list.wsgi
