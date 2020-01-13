@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 from django.shortcuts import render
 from requests.compat import quote_plus
 from . import models
-import tkinter as tk
 
 BASE_CRAIGSLIST_URL = 'https://orlando.craigslist.org/search/sss?query={}'
 BASE_IMAGE_URL = 'https://images.craigslist.org/{}_300x300.jpg'
