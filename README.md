@@ -4,4 +4,4 @@
 
 # What I Learned
 * Django/ Heroku / Postgress
-* Fetch & display images and information Beautifulsoup
+* Fetch & display images and information  from Craig's List using Beautifulsoup
